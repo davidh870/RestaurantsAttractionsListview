@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="permissionDescription">Allow user to use map around Chicago.</string>
+    <string name="AttractionsTextview">Different points of interest in Chicago.</string>
+    <string name="AttractionsButton">Attractions</string>
+    <string name="RestaurantsTextview">Different restaurants in Chicago.</string>
+    <string name="RestaurantsButton">Restaurants</string>
+</resources>

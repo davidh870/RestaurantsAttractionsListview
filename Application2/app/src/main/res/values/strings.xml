@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Application 2</string>
+
+    <string-array name="attractionsArray">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum of Science and Industry</item>
+        <item>Art Institute</item>
+        <item>TILT!</item>
+        <item>Garfield Park Conservatory</item>
+        <item>The 606</item>
+        <item>Shed Aquarium</item>
+    </string-array>
+
+    <string-array name="attractionsWebsiteArray">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/</item>
+        <item>https://garfieldconservatory.org/</item>
+        <item>https://www.the606.org/</item>
+        <item>https://www.sheddaquarium.org/</item>
+    </string-array>
+
+    <string-array name="restaurantsArray">
+        <item>Virtue</item>
+        <item>Avec</item>
+        <item>Tzuco</item>
+        <item>Lula Cafe</item>
+        <item>Birrieria Zaragoza</item>
+        <item>Boka</item>
+    </string-array>
+
+    <string-array name="restaurantsWebsiteArray">
+        <item>https://www.virtuerestaurant.com/</item>
+        <item>http://www.avecrestaurant.com/</item>
+        <item>https://www.tzuco.com/</item>
+        <item>http://lulacafe.com/</item>
+        <item>https://www.birrieriazaragoza.com/</item>
+        <item>http://bokachicago.com/</item>
+    </string-array>
+
+</resources>
